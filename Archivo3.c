@@ -1,0 +1,1 @@
+/home/ayzax/tesis/complementos/Archivo3.c

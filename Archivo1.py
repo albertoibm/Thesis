@@ -1,0 +1,1 @@
+/home/ayzax/tesis/complementos/Archivo1.py

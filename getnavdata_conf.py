@@ -1,0 +1,1 @@
+/home/ayzax/tesis/complementos/getnavdata_conf.py

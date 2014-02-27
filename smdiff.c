@@ -1,0 +1,1 @@
+/home/ayzax/tesis/complementos/smdiff.c
